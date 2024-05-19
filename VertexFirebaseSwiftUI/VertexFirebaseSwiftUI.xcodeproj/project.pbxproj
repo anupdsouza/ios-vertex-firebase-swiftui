@@ -40,6 +40,11 @@
 		E49B2A3E2BF5C6E00065CD81 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = E49B2A3D2BF5C6E00065CD81 /* FirebaseStorage */; };
 		E49B2A402BF5C6E00065CD81 /* FirebaseStorageCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = E49B2A3F2BF5C6E00065CD81 /* FirebaseStorageCombine-Community */; };
 		E49B2A422BF5C6E00065CD81 /* FirebaseVertexAI-Preview in Frameworks */ = {isa = PBXBuildFile; productRef = E49B2A412BF5C6E00065CD81 /* FirebaseVertexAI-Preview */; };
+		E4DF619B2BFA077A0040DCAC /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4DF61962BFA077A0040DCAC /* Chat.swift */; };
+		E4DF619C2BFA077A0040DCAC /* ChatBubbleShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4DF61972BFA077A0040DCAC /* ChatBubbleShape.swift */; };
+		E4DF619D2BFA077A0040DCAC /* ChatService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4DF61982BFA077A0040DCAC /* ChatService.swift */; };
+		E4DF619E2BFA077A0040DCAC /* ChatBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4DF61992BFA077A0040DCAC /* ChatBubble.swift */; };
+		E4DF619F2BFA077A0040DCAC /* ThumbnailService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4DF619A2BFA077A0040DCAC /* ThumbnailService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +54,11 @@
 		E49B29612BF5A5AC0065CD81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E49B29642BF5A5AC0065CD81 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E49B2A082BF5C5B00065CD81 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		E4DF61962BFA077A0040DCAC /* Chat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Chat.swift; sourceTree = "<group>"; };
+		E4DF61972BFA077A0040DCAC /* ChatBubbleShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatBubbleShape.swift; sourceTree = "<group>"; };
+		E4DF61982BFA077A0040DCAC /* ChatService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatService.swift; sourceTree = "<group>"; };
+		E4DF61992BFA077A0040DCAC /* ChatBubble.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatBubble.swift; sourceTree = "<group>"; };
+		E4DF619A2BFA077A0040DCAC /* ThumbnailService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThumbnailService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +121,11 @@
 			children = (
 				E49B295D2BF5A5A90065CD81 /* VertexFirebaseSwiftUIApp.swift */,
 				E49B295F2BF5A5A90065CD81 /* ContentView.swift */,
+				E4DF61962BFA077A0040DCAC /* Chat.swift */,
+				E4DF61992BFA077A0040DCAC /* ChatBubble.swift */,
+				E4DF61972BFA077A0040DCAC /* ChatBubbleShape.swift */,
+				E4DF61982BFA077A0040DCAC /* ChatService.swift */,
+				E4DF619A2BFA077A0040DCAC /* ThumbnailService.swift */,
 				E49B29612BF5A5AC0065CD81 /* Assets.xcassets */,
 				E49B2A082BF5C5B00065CD81 /* GoogleService-Info.plist */,
 				E49B29632BF5A5AC0065CD81 /* Preview Content */,
@@ -230,7 +245,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4DF619F2BFA077A0040DCAC /* ThumbnailService.swift in Sources */,
 				E49B29602BF5A5A90065CD81 /* ContentView.swift in Sources */,
+				E4DF619E2BFA077A0040DCAC /* ChatBubble.swift in Sources */,
+				E4DF619C2BFA077A0040DCAC /* ChatBubbleShape.swift in Sources */,
+				E4DF619B2BFA077A0040DCAC /* Chat.swift in Sources */,
+				E4DF619D2BFA077A0040DCAC /* ChatService.swift in Sources */,
 				E49B295E2BF5A5A90065CD81 /* VertexFirebaseSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
