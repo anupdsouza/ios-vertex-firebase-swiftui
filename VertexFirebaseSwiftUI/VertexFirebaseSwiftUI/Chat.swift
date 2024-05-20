@@ -30,6 +30,6 @@ struct ChatMessage: Identifiable, Equatable {
     
     let id = UUID().uuidString
     let role: ChatRole
-    let message: String
+    var message: String
     let media: [Media]?
 }
