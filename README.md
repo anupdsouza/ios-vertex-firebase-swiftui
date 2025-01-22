@@ -2,7 +2,7 @@
 Get started with the Gemini API using the Vertex AI for Firebase SDKs. Multi-turn & multimodal chat demo to show how to send text, image & video to the AI model.
 
 Star the Repo if you found this useful: <picture><img align="center" alt="startherepo" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/starrepo.gif" height="50" hspace="5"></picture><br/>
-Support Me: <a href="https://www.buymeacoffee.com/adsouza"><img align="center" alt="buymeacoffee" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/bmc.png" height="30" hspace="5"></a> <a href="https://www.youtube.com/@swiftodyssey"><img align="center" alt="youtube" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/subscribe.png" height="30" hspace="5"></a>
+Support Me: <a href="https://www.buymeacoffee.com/adsouza"><img align="center" alt="buymeacoffee" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/bmc.png" height="30" hspace="5"></a> <a href="https://www.youtube.com/@areaswiftyone"><img align="center" alt="youtube" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/subscribe.png" height="30" hspace="5"></a>
 
 ## Screenshots
 <img width="20%" alt="Screenshot 2024-05-20 at 6 41 12 PM" src="https://github.com/anupdsouza/ios-vertex-firebase-swiftui/assets/103429618/993a0b30-26d5-47f8-a35a-2c2b7d152a9b">
